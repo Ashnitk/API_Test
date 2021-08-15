@@ -1,5 +1,5 @@
 # API_Test
-This repository cotains API testing for Assurity from the API: https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
+This repository contains API testing for Assurity from the API: https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
 
 Steps to run tests:
 
